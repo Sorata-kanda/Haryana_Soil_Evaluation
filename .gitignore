@@ -1,4 +1,12 @@
 /testing
+
+# Ignore all .md files
 *.md
+
+# EXCEPT these important documentation files
+!README.md
+!PROJECT_STRUCTURE.md
+
+# Ignore text and image files
 *.txt
 *.png
