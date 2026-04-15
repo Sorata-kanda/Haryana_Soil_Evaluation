@@ -10,14 +10,14 @@
 
 ## 🔗 Important Links
 
-| Resource                    | Link                                                              |
-| --------------------------- | ----------------------------------------------------------------- |
-| 📄 **Research Paper**       | [View on Google Docs](https://docs.google.com/document/d/example) |
-| 💼 **LinkedIn Profile**     | [Connect with me](https://linkedin.com/in/example)                |
-| 📊 **Project Presentation** | [View Slides](https://docs.google.com/presentation/d/example)     |
-| 📁 **Dataset Source**       | [Original Data](https://example.com/dataset)                      |
-| 🎥 **Demo Video**           | [Watch on YouTube](https://youtube.com/example)                   |
-| 📧 **Contact**              | [jangraboy.nature@gmail.com](mailto:your.jangraboy.nature@gmail.com)           |
+| Resource                    | Link                                                                                                                    |
+| --------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| 📄 **Research Paper**       | [View on Google Docs](https://docs.google.com/document/d/1vkZGs7hvJYitXQK_nCUJPp3_td2ENWFKGWIVuZEUBEU/edit?usp=sharing) |
+| 💼 **LinkedIn Profile**     | [Connect with me](https://linkedin.com/in/example)                                                                      |
+| 📊 **Project Presentation** | [View Slides](https://docs.google.com/presentation/d/example)                                                           |
+| 📁 **Dataset Source**       | [Original Data](https://example.com/dataset)                                                                            |
+| 🎥 **Demo Video**           | [Watch on YouTube](https://youtube.com/example)                                                                         |
+| 📧 **Contact**              | [jabgraboy.natuer@gmail.com](mailto:jabgraboy.natuer@gmail.com)                                                         |
 
 ---
 
@@ -381,10 +381,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Rahul Jangra**
 
 - LinkedIn: [linkedin.com/in/example](https://linkedin.com/in/example)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [jabgraboy.natuer@gmail.com](mailto:jabgraboy.natuer@gmail.com)
 - GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
@@ -402,7 +402,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or support:
 
-- 📧 Email: [jangraboy.nature@gmail.com](mailto:jangraboy.nature@gmail.com)
+- 📧 Email: [jabgraboy.natuer@gmail.com](mailto:jabgraboy.natuer@gmail.com)
 - 💬 Open an [Issue](https://github.com/yourusername/soil-health-analysis/issues)
 - 📖 Check [Documentation](PROJECT_STRUCTURE.md)
 
